@@ -15,6 +15,8 @@
         "bignumber": "latest",
         "ctype": "latest",
         "cli": "latest",
-        "nodeunit": "latest"
+        "nodeunit": "latest",
+        "@financial-times/n-logger": "^5.3.0",
+        "ft-next-splunk-logger": "^1.6.1"
     }
 }
